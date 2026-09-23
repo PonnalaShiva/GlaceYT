@@ -9,7 +9,7 @@
 
 - 🔭 I'm a **Full-Stack Developer**
 - 📧 Reach me at: **Ponnalashiva@outlook.com**
-- 🌐 Portfolio: **[glaceyt.com/portfolio](https://glaceyt.com/portfolio)**
+- 🌐 Portfolio: **[Fluenosity.com/ponnalashivacharan](https://www.fluenosity.com/ponnalashivacharan)**
 
 
 <div align="center">
